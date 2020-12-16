@@ -1,4 +1,4 @@
-# AWS SQS Monitoring Extension
+# AWS Amazon MQ Monitoring Extension
 
 ## Use Case
 Captures SQS statistics from Amazon CloudWatch and displays them in the AppDynamics Metric Browser.
